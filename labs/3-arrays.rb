@@ -15,3 +15,21 @@
 # HINTS
 # Learn to read the documentation!
 # https://ruby-doc.org/core-2.7.0/Array.html
+
+My_list = [
+    "milk",
+    "eggs",
+    "bacon"
+]
+
+their_list = [
+    "beer",
+    "cookies",
+    "quest bars"
+]
+
+combined_list = My_list+their_list
+# puts combined_list
+puts combined_list.sort
+
+
